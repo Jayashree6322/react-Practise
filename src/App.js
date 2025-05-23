@@ -8,6 +8,7 @@ const App = ({ state: { count, refreshID }}) =>
 		<div>{ SimpleButton() }</div>
 		<div>Refresh ID: { refreshID }</div>
 		<div>My name is jayashree</div>
+		<div>Welcome to my page</div>
 	</div>;
 
 export default App;
